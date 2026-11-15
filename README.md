@@ -1,6 +1,6 @@
 # DesiBite Restaurant Website
 
-A vegetarian Punjabi and Gujarati restaurant ordering application.
+A vegetarian  restaurant ordering application.
 
 ## Tech Stack
 
